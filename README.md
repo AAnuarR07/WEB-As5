@@ -1,10 +1,6 @@
 # Assignment 5 — Our Favorite Games
 # Team members: Nurbakyt and Anuar
 
-## RUN
-Extract the whole ZIP and open index.html in a browser. Keep css, js,
-images and audio folders next to the HTML files. No installation required
-
 ## CHANGES
 All pages: day/night theme, 1–5 star rating, sound on/off, Test sound,
 arrow-key navigation (also Home and End). Ratings and theme use localStorage
